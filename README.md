@@ -1,5 +1,7 @@
 # ElectricalRevolution, A mix of technology.
 
+This mod gives an electrical revolution for Minecraft.
+
 ## Main features :
 
 * _TODO (0%)_ Adds electricity that functions like in the real life.
